@@ -1,0 +1,2 @@
+template_name: "nq"
+template: "Please write a Wikipedia passage that can answer the Question.\nQuestion: [QUERY]\nPassage: "

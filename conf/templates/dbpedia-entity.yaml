@@ -1,0 +1,2 @@
+template_name: dbpedia
+template: "Please write a Wikipedia passage to answer the Question.\nQuestion: [QUERY]\nPassage: "

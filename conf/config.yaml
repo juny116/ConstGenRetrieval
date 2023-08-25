@@ -1,0 +1,19 @@
+seed: 42
+num_beams: 10
+
+output_dir: results
+data_dir: data
+trie_dir: trie
+task: scifact
+create_trie: False
+
+max_gen: 1000000000000
+max_print: 5
+
+save_path: ./${output_dir}/${task}/${model.name}
+
+defaults:
+  - trie: split
+  - model: llama2-13b-chat.yaml
+  - templates: scifact
+  - _self_

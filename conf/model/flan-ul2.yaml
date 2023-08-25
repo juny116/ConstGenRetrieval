@@ -1,0 +1,7 @@
+name: flan-ul2
+model_name_or_path: google/flan-ul2
+type: Seq2SeqLM
+low_cpu_mem_usage: True
+device_map: "balanced_low_0"
+dtype: float16
+max_memory: null

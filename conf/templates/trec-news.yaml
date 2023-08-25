@@ -1,0 +1,2 @@
+template_name: trec-news_hyde
+template: "Please write a news passage about the topic. Topic: [QUERY]\nPassage:"

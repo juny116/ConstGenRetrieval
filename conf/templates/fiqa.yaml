@@ -1,0 +1,2 @@
+template_name: "fiqa_hyde"
+template: "Please write a financial article passage to answer the question\nQuestion: [QUERY]\nPassage:"

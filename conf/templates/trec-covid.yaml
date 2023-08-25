@@ -1,0 +1,2 @@
+template_name: "trec-covid"
+template: "Please write a scientific paper passage to answer the Question.\nQuestion: [QUERY]\nPassage: "

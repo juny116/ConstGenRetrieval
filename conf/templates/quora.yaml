@@ -1,0 +1,2 @@
+template_name: quora
+template: "Please write a Quora question that has same meaning with this Question.\nQuestion: [QUERY]\nOutput: "

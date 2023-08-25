@@ -1,0 +1,8 @@
+name: llama2-13b-chat
+model_name_or_path: meta-llama/Llama-2-13b-chat-hf
+type: CausalLM
+low_cpu_mem_usage: True
+device_map: "auto"
+dtype: float16
+max_memory: { 0: "20GiB", 1: "40GiB", 2: "40GiB", 3: "40GiB" }
+# max_memory: null

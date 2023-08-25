@@ -1,0 +1,2 @@
+template_name: "fever"
+template: "Please write a Wikipedia passage about the Claim.\nClaim: [QUERY]\nPassage: "

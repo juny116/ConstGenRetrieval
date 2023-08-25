@@ -1,0 +1,2 @@
+template_name: "scifact"
+template: "Please write a scientific paper passage about the Claim.\nClaim: [QUERY]\nPassage: "

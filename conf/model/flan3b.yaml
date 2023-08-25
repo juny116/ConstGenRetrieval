@@ -1,0 +1,6 @@
+name: flan3b
+model_name_or_path: google/flan-t5-xl
+type: Seq2SeqLM
+low_cpu_mem_usage: True
+device_map: "balanced_low_0"
+dtype: float16

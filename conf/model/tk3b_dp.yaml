@@ -1,0 +1,7 @@
+name: tk3b_dp
+model_name_or_path: allenai/tk-instruct-3b-def-pos
+type: Seq2SeqLM
+low_cpu_mem_usage: True
+device_map: "balanced_low_0"
+dtype: float16
+max_memory: null
